@@ -1,0 +1,33 @@
+[
+    
+    {
+        "name":"sufyan",
+        "age":20,
+        "proff":"Engineer"
+    },
+    {
+        "name":"sufyan1",
+        "age":22,
+        "proff":"Engineer"
+    },
+    {
+        "name":"sufyan2",
+        "age":21,
+        "proff":"Engineer"
+    },
+    {
+        "name":"sufyan3",
+        "age":53,
+        "proff":"Engineer"
+    },
+    {
+        "name":"sufyan4",
+        "age":64,
+        "proff":"Engineer"
+    },
+    {
+        "name":"sufyan",
+        "age":60,
+        "proff":"Engineer"
+    }
+]
